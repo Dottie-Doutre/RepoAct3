@@ -14,7 +14,7 @@ Repo for activity 3 - trying it again!
 
 [reference](references)
 
-```python print("Nice to mee you ya'll")```
+```python print("Nice to meet you ya'll")```
 
 >"In coding we trust"
 
